@@ -13,7 +13,11 @@ namespace WebApplication1.Pages
         {
 
         }
-        public void newFf()
+        public void newFunction1()
+        {
+
+        }
+        public void newFunction2()
         {
 
         }
