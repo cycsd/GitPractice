@@ -6,6 +6,7 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
+            // alter some code
             return View();
         }
     }
