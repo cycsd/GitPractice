@@ -36,7 +36,6 @@ namespace WebApplication1.Pages
             //修正 bug
             // 開發新功能
             //修正 bug2
-
         }
 
     }
