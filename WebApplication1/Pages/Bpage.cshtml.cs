@@ -33,7 +33,9 @@ namespace WebApplication1.Pages
 
         public void bugdev()
         {
+            //修正 bug
             // 開發新功能
+            //修正 bug2
         }
 
     }
